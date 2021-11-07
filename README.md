@@ -1,11 +1,6 @@
 ### Olá! Eu sou o Ítalo Nery 👋
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italoravelnerydesouza/)
-[![Email](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](italonery1@outlook.com)
-<div>
-  <a href = "mailto:italonery1@outlook.com"><img src = "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href = "https://www.linkedin.com/in/italoravelnerydesouza/" target="_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
 
 ![Italo Nery's GitHub Stats](https://github-readme-stats.vercel.app/api?username=italonery&show_icons=true&theme=dark)
 
