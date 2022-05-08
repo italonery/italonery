@@ -1,11 +1,11 @@
-### Olá! Eu sou o Ítalo Nery 👋
+### Hi, whats up? Ítalo Nery here 👋
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italoravelnerydesouza/)
 
 ![Italo Nery's GitHub Stats](https://github-readme-stats.vercel.app/api?username=italonery&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italonery&layout=compact&theme=dark)
 
-## 💻 Tecnologias que estou estudando
+## 💻 I'm have study this tecnologies
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -17,4 +17,4 @@
   <img align="center" alt="sql" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </div><br/>
 
-🧑🏿‍💻 Iniciando no mundo Dev.
+🧑🏿‍💻 Starting on dev world.
