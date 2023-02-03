@@ -2,9 +2,6 @@
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italoravelnerydesouza/)
 
-[![Italo Nery's GitHub stats](https://github-readme-stats.vercel.app/api?username=italonery&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italonery&layout=compact&theme=dark)
-
 ## 💻 I'm have study this tecnologies
 
 <div style="display: inline_block"><br/>
